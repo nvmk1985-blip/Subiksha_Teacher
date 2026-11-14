@@ -390,7 +390,7 @@ fun SettingsScreen(
                         Spacer(modifier = Modifier.height(4.dp))
 
                         Text(
-                            text = "Repository: https://github.com/nvmk-dream/vaanga-padikkalaam\nVersion: 1.0 (Release Build Ready)\nPowered by Google Gemini AI Model",
+                            text = "Repository: https://github.com/nvmk1985-blip/Subiksha_Teacher\nVersion: 1.0 (Release Build Ready)\nPowered by Google Gemini AI Model",
                             fontSize = 11.sp,
                             color = SubikshaTextMuted,
                             lineHeight = 16.sp
